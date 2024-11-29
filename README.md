@@ -1,5 +1,4 @@
-# 📈 **The Convergence of Machine Learning and HPC in Stock Market Analysis: LSTM RNNs, GPU Acceleration, and Multi-worker Strategies
-** 📉
+# 📈 **The Convergence of Machine Learning and HPC in Stock Market Analysis: LSTM RNNs, GPU Acceleration, and Multi-worker Strategies** 📉
 
 ## 🎥 **Video Explanation**
 [![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
@@ -15,8 +14,6 @@
 6. [👥 Multi-Worker Strategy](#-multi-worker-strategy)
 7. [⏱️ Profiling & Performance](#️-profiling--performance)
 8. [🔒 Security](#-security)
-9. [📄 License](#-license)
-10. [🙏 Acknowledgements](#-acknowledgements)
 
 ---
 
@@ -139,4 +136,6 @@ aws_secret_access_key = os.getenv('AWS_SECRET_ACCESS_KEY')
 
 ---
 
-We hope this project offers a nice conclusion for our rewarding experience during the High Performance Computing course! 🌟
+### We hope this project offers a nice conclusion for our rewarding experience during the High Performance Computing course! 🌟
+
+By Laura Cuellar, Zaid Saheb, Sofia Vitorica, Sebastian Perilla, and Ismael Picazo
