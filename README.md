@@ -1,7 +1,7 @@
 # 📈 **The Convergence of Machine Learning and HPC in Stock Market Analysis: LSTM RNNs, GPU Acceleration, and Multi-worker Strategies** 📉
 
-## 🎥 **Video Explanation**
-[![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+# 🎥 **Video Explanation HERE**
+[![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/bE9OQoD-mg0)
 
 ---
 
